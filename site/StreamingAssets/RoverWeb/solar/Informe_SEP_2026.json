@@ -1,0 +1,214 @@
+{
+  "fuente": "NASA DONKI SEP",
+  "corte_solicitado": "2026-11-14",
+  "inicio_consulta_utc": "2026-11-15T03:30:04.757808+00:00",
+  "cobertura_completa": true,
+  "meses": [
+    {
+      "mes": 1,
+      "nombre": "Enero",
+      "desde": "2026-01-01",
+      "hasta": "2026-01-31",
+      "dias_consultados": 31,
+      "intentos": [
+        {
+          "numero": 1,
+          "hora_utc": "2026-11-15T03:30:04.757936+00:00",
+          "http": 200,
+          "resultado": "ok"
+        }
+      ],
+      "registros_anteriores": 9,
+      "estado": "con_registros",
+      "registros": 9
+    },
+    {
+      "mes": 2,
+      "nombre": "Febrero",
+      "desde": "2026-02-01",
+      "hasta": "2026-02-28",
+      "dias_consultados": 28,
+      "intentos": [
+        {
+          "numero": 1,
+          "hora_utc": "2026-11-15T03:30:08.272852+00:00",
+          "http": 200,
+          "resultado": "ok"
+        }
+      ],
+      "registros_anteriores": 0,
+      "estado": "sin_registros",
+      "registros": 0
+    },
+    {
+      "mes": 3,
+      "nombre": "Marzo",
+      "desde": "2026-03-01",
+      "hasta": "2026-03-31",
+      "dias_consultados": 31,
+      "intentos": [
+        {
+          "numero": 1,
+          "hora_utc": "2026-11-15T03:30:10.721173+00:00",
+          "http": 200,
+          "resultado": "ok"
+        }
+      ],
+      "registros_anteriores": 0,
+      "estado": "sin_registros",
+      "registros": 0
+    },
+    {
+      "mes": 4,
+      "nombre": "Abril",
+      "desde": "2026-04-01",
+      "hasta": "2026-04-30",
+      "dias_consultados": 30,
+      "intentos": [
+        {
+          "numero": 1,
+          "hora_utc": "2026-11-15T03:30:13.190448+00:00",
+          "http": 200,
+          "resultado": "ok"
+        }
+      ],
+      "registros_anteriores": 0,
+      "estado": "sin_registros",
+      "registros": 0
+    },
+    {
+      "mes": 5,
+      "nombre": "Mayo",
+      "desde": "2026-05-01",
+      "hasta": "2026-05-31",
+      "dias_consultados": 31,
+      "intentos": [
+        {
+          "numero": 1,
+          "hora_utc": "2026-11-15T03:30:15.639489+00:00",
+          "http": 200,
+          "resultado": "ok"
+        }
+      ],
+      "registros_anteriores": 8,
+      "estado": "con_registros",
+      "registros": 8
+    },
+    {
+      "mes": 6,
+      "nombre": "Junio",
+      "desde": "2026-06-01",
+      "hasta": "2026-06-30",
+      "dias_consultados": 30,
+      "intentos": [
+        {
+          "numero": 1,
+          "hora_utc": "2026-11-15T03:30:18.137580+00:00",
+          "http": 200,
+          "resultado": "ok"
+        }
+      ],
+      "registros_anteriores": 1,
+      "estado": "con_registros",
+      "registros": 1
+    },
+    {
+      "mes": 7,
+      "nombre": "Julio",
+      "desde": "2026-07-01",
+      "hasta": "2026-07-31",
+      "dias_consultados": 31,
+      "intentos": [
+        {
+          "numero": 1,
+          "hora_utc": "2026-11-15T03:30:20.629177+00:00",
+          "http": 200,
+          "resultado": "ok"
+        }
+      ],
+      "registros_anteriores": 6,
+      "estado": "con_registros",
+      "registros": 6
+    },
+    {
+      "mes": 8,
+      "nombre": "Agosto",
+      "desde": "2026-08-01",
+      "hasta": "2026-08-31",
+      "dias_consultados": 31,
+      "intentos": [
+        {
+          "numero": 1,
+          "hora_utc": "2026-11-15T03:30:23.142728+00:00",
+          "http": 200,
+          "resultado": "ok"
+        }
+      ],
+      "registros_anteriores": 3,
+      "estado": "con_registros",
+      "registros": 3
+    },
+    {
+      "mes": 9,
+      "nombre": "Septiembre",
+      "desde": "2026-09-01",
+      "hasta": "2026-09-30",
+      "dias_consultados": 30,
+      "intentos": [
+        {
+          "numero": 1,
+          "hora_utc": "2026-11-15T03:30:25.474565+00:00",
+          "http": 200,
+          "resultado": "ok"
+        }
+      ],
+      "registros_anteriores": 8,
+      "estado": "con_registros",
+      "registros": 8
+    },
+    {
+      "mes": 10,
+      "nombre": "Octubre",
+      "desde": "2026-10-01",
+      "hasta": "2026-10-31",
+      "dias_consultados": 31,
+      "intentos": [
+        {
+          "numero": 1,
+          "hora_utc": "2026-11-15T03:30:27.984289+00:00",
+          "http": 200,
+          "resultado": "ok"
+        }
+      ],
+      "registros_anteriores": 0,
+      "estado": "sin_registros",
+      "registros": 0
+    },
+    {
+      "mes": 11,
+      "nombre": "Noviembre",
+      "desde": "2026-11-01",
+      "hasta": "2026-11-14",
+      "dias_consultados": 14,
+      "intentos": [
+        {
+          "numero": 1,
+          "hora_utc": "2026-11-15T03:30:30.620504+00:00",
+          "http": 200,
+          "resultado": "ok"
+        }
+      ],
+      "registros_anteriores": 0,
+      "estado": "sin_registros",
+      "registros": 0
+    },
+    {
+      "mes": 12,
+      "nombre": "Diciembre",
+      "estado": "no_consultado_futuro",
+      "registros": null
+    }
+  ],
+  "total_registros_guardados": 35,
+  "fin_consulta_utc": "2026-11-15T03:30:32.909441+00:00"
+}

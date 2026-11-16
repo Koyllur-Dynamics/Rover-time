@@ -1,0 +1,6 @@
+* text=auto
+site/** -text
+*.unityweb -text
+*.wasm -text
+*.whl -text
+*.zip -text

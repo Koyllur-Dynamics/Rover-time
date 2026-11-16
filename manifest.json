@@ -1,0 +1,733 @@
+{
+  "files": {
+    ".nojekyll": {
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "Build/Web.data.unityweb": {
+      "bytes": 56755545,
+      "sha256": "7ba9e23adab43660ccf8836e416e0607e7125aea34d02c39539fa4ab2bca7f72"
+    },
+    "Build/Web.framework.js.unityweb": {
+      "bytes": 84161,
+      "sha256": "9912f4e5e6a63e1af98ad81c7471ad2ddf32e165f8dbb42b7040af37d25218ad"
+    },
+    "Build/Web.loader.js": {
+      "bytes": 48779,
+      "sha256": "5452cff6d0a41048333581192e66ff20f41047eef2e663e286faae8b22e9540d"
+    },
+    "Build/Web.wasm.unityweb": {
+      "bytes": 15528139,
+      "sha256": "cd01d005693a1599b4076d6a17fe80e747ed6704ca22182bc58cd1eb9fa62131"
+    },
+    "StreamingAssets/RoverWeb/dependencies.json": {
+      "bytes": 416,
+      "sha256": "293d0f2940b8a0fac449405a5b0d6db12d8dcb80f705d280ef7b0335f26f64ed"
+    },
+    "StreamingAssets/RoverWeb/edu-client.mjs": {
+      "bytes": 6428,
+      "sha256": "22facb1a5eaac8600d46ac6981673249277fc4e0d3a09bb7633525e8c1a5a2a2"
+    },
+    "StreamingAssets/RoverWeb/explore/0358ec68853aa670e54082d2.png": {
+      "bytes": 1108374,
+      "sha256": "0358ec68853aa670e54082d2de1fd292fe73929a5f9cf22f684230ec156628d7"
+    },
+    "StreamingAssets/RoverWeb/explore/088c712c1dea93aba8724832.jpg": {
+      "bytes": 12769,
+      "sha256": "088c712c1dea93aba8724832534b875bb6c95c818a2bf98502adfb544fc25d73"
+    },
+    "StreamingAssets/RoverWeb/explore/0cff87b252ed05558031e976.jpg": {
+      "bytes": 43046,
+      "sha256": "0cff87b252ed05558031e9764016b32b33e984918e149735d288d9aab6c9a9c7"
+    },
+    "StreamingAssets/RoverWeb/explore/10838596a84b41fcee187844.jpg": {
+      "bytes": 21885,
+      "sha256": "10838596a84b41fcee187844baa32ab669a8106764d5ed4d151b74cc37a3543f"
+    },
+    "StreamingAssets/RoverWeb/explore/11a3a35464eac1138d6b7d0c.jpg": {
+      "bytes": 432739,
+      "sha256": "11a3a35464eac1138d6b7d0cf5cf6d0c3cb1383361d7086c325de5e1a47cf7d5"
+    },
+    "StreamingAssets/RoverWeb/explore/13bc74b21bfe9cd29facc093.jpg": {
+      "bytes": 27045,
+      "sha256": "13bc74b21bfe9cd29facc093d7eda1989c668bedcd6bd2e15c81904844b9f076"
+    },
+    "StreamingAssets/RoverWeb/explore/155f1af8fb7b643ed06d41d6.jpg": {
+      "bytes": 20505,
+      "sha256": "155f1af8fb7b643ed06d41d66b3f642dadb315b912f86195c634034f7cd553ee"
+    },
+    "StreamingAssets/RoverWeb/explore/15bfa02f85495ef15abb1717.jpg": {
+      "bytes": 161051,
+      "sha256": "15bfa02f85495ef15abb1717cef111aa1345a09c551348cc7ddd7d110b3fb024"
+    },
+    "StreamingAssets/RoverWeb/explore/1abc77c71ad32e983c12c019.jpg": {
+      "bytes": 43816,
+      "sha256": "1abc77c71ad32e983c12c0199e93a9fdfddb6a68a649760640e9faa455ba9329"
+    },
+    "StreamingAssets/RoverWeb/explore/1d345c1bc7229ff7ddf4da4e.jpg": {
+      "bytes": 4439,
+      "sha256": "1d345c1bc7229ff7ddf4da4e6f668ae35d2eea8d04b8e81e708dbee739d567aa"
+    },
+    "StreamingAssets/RoverWeb/explore/1daf31be6991062375f77718.jpg": {
+      "bytes": 25986,
+      "sha256": "1daf31be6991062375f7771827f14de1bef3a0342c92b19d0070ed1d92fcd32b"
+    },
+    "StreamingAssets/RoverWeb/explore/1ebfae148e1b0648bba1261b.jpg": {
+      "bytes": 21020,
+      "sha256": "1ebfae148e1b0648bba1261b6032f866902af4f36e8379af31f38e2e38647696"
+    },
+    "StreamingAssets/RoverWeb/explore/2354403855df3f324c82547b.jpg": {
+      "bytes": 26376,
+      "sha256": "2354403855df3f324c82547b49ed1bf784484dd5fc6069495cf5fbac862b3893"
+    },
+    "StreamingAssets/RoverWeb/explore/238565ec8a0bd575af358755.jpg": {
+      "bytes": 361563,
+      "sha256": "238565ec8a0bd575af35875541e082d8c350efcb80bbcf768dda3b560942a139"
+    },
+    "StreamingAssets/RoverWeb/explore/254be554d9b3123c9502748d.jpg": {
+      "bytes": 5341,
+      "sha256": "254be554d9b3123c9502748da56ddf6d940d61d666d02acce8087bf456abc0dd"
+    },
+    "StreamingAssets/RoverWeb/explore/258bcd52fd61b343c174a7b1.jpg": {
+      "bytes": 156001,
+      "sha256": "258bcd52fd61b343c174a7b172c88ba50e48198b3210063db95dc476054cd783"
+    },
+    "StreamingAssets/RoverWeb/explore/2683299d8a8340bccf9bff61.jpg": {
+      "bytes": 5732,
+      "sha256": "2683299d8a8340bccf9bff61c16b1609bf81b461c7d319e3121e323d8fd95392"
+    },
+    "StreamingAssets/RoverWeb/explore/269016c9aabe26ba728d9185.jpg": {
+      "bytes": 14450,
+      "sha256": "269016c9aabe26ba728d91858cf20eaa519de418dfac0c885fbd7d46efcc5a60"
+    },
+    "StreamingAssets/RoverWeb/explore/27b0c43a60247ff347839230.jpg": {
+      "bytes": 4746,
+      "sha256": "27b0c43a60247ff3478392306fa077377619a5489d627fda713433c05fca3e63"
+    },
+    "StreamingAssets/RoverWeb/explore/2831b089b9bb2cceeb89964a.jpg": {
+      "bytes": 27560,
+      "sha256": "2831b089b9bb2cceeb89964a7f8bf49bb39e4214b436a795461abe9ef86092da"
+    },
+    "StreamingAssets/RoverWeb/explore/32337e4fa1da6405e4d6d513.jpg": {
+      "bytes": 5243,
+      "sha256": "32337e4fa1da6405e4d6d51389c2fbc63041a72b7cff104fcc468487038433f3"
+    },
+    "StreamingAssets/RoverWeb/explore/37ce975e9b2101da71ea03a1.jpg": {
+      "bytes": 99500,
+      "sha256": "37ce975e9b2101da71ea03a1caf7b83612be719f744f03c5bf0763d0f9763e1c"
+    },
+    "StreamingAssets/RoverWeb/explore/39749aa9b44905aa6083f11d.jpg": {
+      "bytes": 24011,
+      "sha256": "39749aa9b44905aa6083f11dab6de573e32c29d292e373115021bdfd18d5a0b3"
+    },
+    "StreamingAssets/RoverWeb/explore/3a0f6e899cc2f901d03a7fed.jpg": {
+      "bytes": 82697,
+      "sha256": "3a0f6e899cc2f901d03a7fed624a886736c376e575b3f6642d1c20b3c9695bc5"
+    },
+    "StreamingAssets/RoverWeb/explore/3b73e5a49fad6112747a844b.jpg": {
+      "bytes": 274635,
+      "sha256": "3b73e5a49fad6112747a844b52c2ec949db68fbe50e6bff1f32ee5827c888324"
+    },
+    "StreamingAssets/RoverWeb/explore/3bc519259abfc1de3c9ac2d1.jpg": {
+      "bytes": 32057,
+      "sha256": "3bc519259abfc1de3c9ac2d14d29934e6af124f6826c0f94440fb977e2650bf2"
+    },
+    "StreamingAssets/RoverWeb/explore/3fa840c3f5766334a9839df8.jpg": {
+      "bytes": 19720,
+      "sha256": "3fa840c3f5766334a9839df8bab81197fccea663e7c928a53eee417aae27133b"
+    },
+    "StreamingAssets/RoverWeb/explore/41121d94dc401374cd67de4e.jpg": {
+      "bytes": 6649,
+      "sha256": "41121d94dc401374cd67de4e9ec06fed0fd380d318dbdc0493805fff263fdb9e"
+    },
+    "StreamingAssets/RoverWeb/explore/474bcbf029a2ee675f2025e0.jpg": {
+      "bytes": 16211,
+      "sha256": "474bcbf029a2ee675f2025e021b3220c6b184d3ae868e33c305deb9c0a7b0e7d"
+    },
+    "StreamingAssets/RoverWeb/explore/483d35e7a4483550d0c24d09.jpg": {
+      "bytes": 224530,
+      "sha256": "483d35e7a4483550d0c24d095310e48b9a0b954bbc1cf61a410fb3f70467d285"
+    },
+    "StreamingAssets/RoverWeb/explore/4a40e6b4f028420c3dcb6e43.jpg": {
+      "bytes": 42130,
+      "sha256": "4a40e6b4f028420c3dcb6e434cfbc9c19c1fb35a5fab076079b1bbb4d7701a05"
+    },
+    "StreamingAssets/RoverWeb/explore/4e4ce1a910ab314ab60c9854.jpg": {
+      "bytes": 16020,
+      "sha256": "4e4ce1a910ab314ab60c985429f8bb8389ef7d44257a33cdaba7123eb26240c8"
+    },
+    "StreamingAssets/RoverWeb/explore/4fa05f32913a6cb1d4def16c.jpg": {
+      "bytes": 3961,
+      "sha256": "4fa05f32913a6cb1d4def16c3b93e073a8525ad171667eae14b40aa2345b2112"
+    },
+    "StreamingAssets/RoverWeb/explore/5aeb895590397d81d209d826.jpg": {
+      "bytes": 16514,
+      "sha256": "5aeb895590397d81d209d826b629117e8c72bb3027a10684c7ed7e21dffd5e36"
+    },
+    "StreamingAssets/RoverWeb/explore/5f3ede5f4edcec6ab7aec48e.jpg": {
+      "bytes": 262389,
+      "sha256": "5f3ede5f4edcec6ab7aec48eabf0f3eab1b6c3070baafd991d233edee9a8e4aa"
+    },
+    "StreamingAssets/RoverWeb/explore/61bf3bae6d649a9711fe5e1b.jpg": {
+      "bytes": 278645,
+      "sha256": "61bf3bae6d649a9711fe5e1bdf3afe4212fd14558e131aeb867ae31b9ae47a88"
+    },
+    "StreamingAssets/RoverWeb/explore/643b3ae0e446cafb7dd8fd8c.jpg": {
+      "bytes": 6324,
+      "sha256": "643b3ae0e446cafb7dd8fd8c31f4a52bc60a2bce67b0886cc3ce7f389e51c725"
+    },
+    "StreamingAssets/RoverWeb/explore/647187d455924b41428387f5.jpg": {
+      "bytes": 45345,
+      "sha256": "647187d455924b41428387f5064e0dceca85b04d211d6182dc945af627477421"
+    },
+    "StreamingAssets/RoverWeb/explore/64c38cd87841f525a45bc6ec.jpg": {
+      "bytes": 6481,
+      "sha256": "64c38cd87841f525a45bc6eca1455bf4c516b3d99e950b70354f38a38c2f8a97"
+    },
+    "StreamingAssets/RoverWeb/explore/66ab33ecab4bd2b6369cd13f.jpg": {
+      "bytes": 390241,
+      "sha256": "66ab33ecab4bd2b6369cd13faf4308f90349b5a3788f62ce079f8fc7520d8d81"
+    },
+    "StreamingAssets/RoverWeb/explore/670a11dc99a64da05e86f782.jpg": {
+      "bytes": 109867,
+      "sha256": "670a11dc99a64da05e86f7823eb920b409590b5b3d745f56b98e68a256378144"
+    },
+    "StreamingAssets/RoverWeb/explore/674920c56b84bb5a5f861b05.jpg": {
+      "bytes": 23210,
+      "sha256": "674920c56b84bb5a5f861b05f42c2898c0d187a7795b08af396ff0a3a3f2c362"
+    },
+    "StreamingAssets/RoverWeb/explore/6a05808bf2866a4b92e56b1b.jpg": {
+      "bytes": 141074,
+      "sha256": "6a05808bf2866a4b92e56b1b2484a8567e1984ccafddbee62d2f69dc631bb299"
+    },
+    "StreamingAssets/RoverWeb/explore/6c4f5f76375fbbd1d93aa587.jpg": {
+      "bytes": 40534,
+      "sha256": "6c4f5f76375fbbd1d93aa587d32b9fcbdd988f63b63712adfd81b538bc60d85c"
+    },
+    "StreamingAssets/RoverWeb/explore/701b1070c8577f903f5e4f66.jpg": {
+      "bytes": 74540,
+      "sha256": "701b1070c8577f903f5e4f6681ef4068e7b931eb887809e71d39ed4a861f75d1"
+    },
+    "StreamingAssets/RoverWeb/explore/706163239d5e4fe04d6a31cb.jpg": {
+      "bytes": 41985,
+      "sha256": "706163239d5e4fe04d6a31cbcba8c5b04ac4d144ab6a72dbc678f3b2447dae52"
+    },
+    "StreamingAssets/RoverWeb/explore/7089dbf37862a1a9316322dd.jpg": {
+      "bytes": 14986,
+      "sha256": "7089dbf37862a1a9316322dd6663937feecdba7d084fd887c5e0cfd509ecbe43"
+    },
+    "StreamingAssets/RoverWeb/explore/723414cdba0f28179ddc4cc2.jpg": {
+      "bytes": 6141,
+      "sha256": "723414cdba0f28179ddc4cc2f5f0f71b914e98e57ab63e2ce842676149b31142"
+    },
+    "StreamingAssets/RoverWeb/explore/72c6a5d70231474260a7e26a.jpg": {
+      "bytes": 70676,
+      "sha256": "72c6a5d70231474260a7e26a8de3269ab0164a6f3c5ee7e61e67179f3a9c1f5c"
+    },
+    "StreamingAssets/RoverWeb/explore/72cbfc0183f856cb5a219051.png": {
+      "bytes": 190807,
+      "sha256": "72cbfc0183f856cb5a2190516fc4a684f4cc2464e8a32ebde7c17a432f859acf"
+    },
+    "StreamingAssets/RoverWeb/explore/72e3acf59dfa834e2b208012.jpg": {
+      "bytes": 5073,
+      "sha256": "72e3acf59dfa834e2b208012eb96dff34a04337e4248c334998cdb800f2f528e"
+    },
+    "StreamingAssets/RoverWeb/explore/72fbbca16cab5d4136af42f5.jpg": {
+      "bytes": 39512,
+      "sha256": "72fbbca16cab5d4136af42f5455f590c3897cb6302a104e6c4a04386220d703e"
+    },
+    "StreamingAssets/RoverWeb/explore/760225b3a875f84adc1db2d3.jpg": {
+      "bytes": 131744,
+      "sha256": "760225b3a875f84adc1db2d3757b02db50034b779ef32a035de17135e692bce3"
+    },
+    "StreamingAssets/RoverWeb/explore/774e88179bee3a2f45e7789e.png": {
+      "bytes": 8650,
+      "sha256": "774e88179bee3a2f45e7789e6e9957037979f788732bcf65ac847a6ee1b8a598"
+    },
+    "StreamingAssets/RoverWeb/explore/7764b4604b98beabee000a97.jpg": {
+      "bytes": 4817,
+      "sha256": "7764b4604b98beabee000a9700c9bde90b8ea4e02089d8a89a7c2b3b78208cf7"
+    },
+    "StreamingAssets/RoverWeb/explore/7775b9404fdf8eaccee10ff2.jpg": {
+      "bytes": 172761,
+      "sha256": "7775b9404fdf8eaccee10ff251edc5359994f1a7c43f27bd00fde5bca2febbc9"
+    },
+    "StreamingAssets/RoverWeb/explore/7818e684573e73897f5c238d.jpg": {
+      "bytes": 7408,
+      "sha256": "7818e684573e73897f5c238d1eb5ec3ec23826f58035408711e44c669d422f51"
+    },
+    "StreamingAssets/RoverWeb/explore/78f5ad4b1445b02d714e25ef.jpg": {
+      "bytes": 223254,
+      "sha256": "78f5ad4b1445b02d714e25ef479f9c96aa8c4c030b7bd19a95313c542f9e9240"
+    },
+    "StreamingAssets/RoverWeb/explore/79c369fa9aed9202037189ac.jpg": {
+      "bytes": 14639,
+      "sha256": "79c369fa9aed9202037189acb4c3853cf5e9f65602b263d7e68b3c0bf794b102"
+    },
+    "StreamingAssets/RoverWeb/explore/7bee55b143b01f714f12397c.jpg": {
+      "bytes": 32134,
+      "sha256": "7bee55b143b01f714f12397c940830b16788543ab1655178cd2cd6ced784f656"
+    },
+    "StreamingAssets/RoverWeb/explore/7e26212ff52b07d8f40655c3.jpg": {
+      "bytes": 125823,
+      "sha256": "7e26212ff52b07d8f40655c37e8929b1148c1175ae04ae7d597c21b350b1ac5c"
+    },
+    "StreamingAssets/RoverWeb/explore/7eacd63d0c8cdad0a66069e9.jpg": {
+      "bytes": 389071,
+      "sha256": "7eacd63d0c8cdad0a66069e915a24f5fa3bcb9f615ffbeb4ddd72a4d6d199867"
+    },
+    "StreamingAssets/RoverWeb/explore/81ee36fa90cdc3fd4ad3af36.jpg": {
+      "bytes": 27978,
+      "sha256": "81ee36fa90cdc3fd4ad3af3681d712957c2a255d80c563b89f742a08aeb78363"
+    },
+    "StreamingAssets/RoverWeb/explore/82be77613c9d5e56920b36a0.jpg": {
+      "bytes": 4617,
+      "sha256": "82be77613c9d5e56920b36a081eb06ad2caed58600ea95368288807d039ae3a3"
+    },
+    "StreamingAssets/RoverWeb/explore/87b0f07c198dd7719ecc3e19.jpg": {
+      "bytes": 35266,
+      "sha256": "87b0f07c198dd7719ecc3e19e90c35420e7ffe6c54bfb6ed879849e264ebb25b"
+    },
+    "StreamingAssets/RoverWeb/explore/8882521cb0c3c7342a048abb.jpg": {
+      "bytes": 6180,
+      "sha256": "8882521cb0c3c7342a048abb81dfa3acaa772f4aa121fe86a4ce370d3681cf35"
+    },
+    "StreamingAssets/RoverWeb/explore/8969bd09fd7fbfbcd47f0ddc.jpg": {
+      "bytes": 326218,
+      "sha256": "8969bd09fd7fbfbcd47f0ddc9c9a3910aa0662b10f8a10b371021ebc37427d0a"
+    },
+    "StreamingAssets/RoverWeb/explore/8af7d25df752c1e6be48834e.jpg": {
+      "bytes": 17889,
+      "sha256": "8af7d25df752c1e6be48834e252265ce38ced9c8ff80d3ea872a67a59a02ad16"
+    },
+    "StreamingAssets/RoverWeb/explore/8bb49e75c2348e4611553d9e.jpg": {
+      "bytes": 5128,
+      "sha256": "8bb49e75c2348e4611553d9e7a395336c56e23d370f4bccc7161582cf09cdf71"
+    },
+    "StreamingAssets/RoverWeb/explore/8bfcaf9a1c90e08c92e40c32.jpg": {
+      "bytes": 385854,
+      "sha256": "8bfcaf9a1c90e08c92e40c32369204131826571ec2efe2e1ac35e5ab0356fd0e"
+    },
+    "StreamingAssets/RoverWeb/explore/8d0d35331a1aaafacaee2ee5.jpg": {
+      "bytes": 30096,
+      "sha256": "8d0d35331a1aaafacaee2ee5eb2ab7a3bab6a645b5b55567b270b8eef8bd6cf1"
+    },
+    "StreamingAssets/RoverWeb/explore/8e0a54fdd89c03311ff4a1d4.jpg": {
+      "bytes": 21876,
+      "sha256": "8e0a54fdd89c03311ff4a1d49d87dbeea8947ca01e2716fea7e5ad706576afd0"
+    },
+    "StreamingAssets/RoverWeb/explore/8e232d5a23693b134fb40c0d.jpg": {
+      "bytes": 40781,
+      "sha256": "8e232d5a23693b134fb40c0d20d7be736dcc085006dbd161bc8a90cb3c775a5c"
+    },
+    "StreamingAssets/RoverWeb/explore/8e74ad16fe4746f91a10eedc.jpg": {
+      "bytes": 20126,
+      "sha256": "8e74ad16fe4746f91a10eedcfa6d9c06c57202535c81fbf55464ae4ba1569aab"
+    },
+    "StreamingAssets/RoverWeb/explore/8eb5bfc0d016fceab1c7e231.jpg": {
+      "bytes": 223996,
+      "sha256": "8eb5bfc0d016fceab1c7e23141126c79fb8207411441ed9d32391bbab18b3ab6"
+    },
+    "StreamingAssets/RoverWeb/explore/914551dce1b5f4d761a0f2f6.jpg": {
+      "bytes": 45871,
+      "sha256": "914551dce1b5f4d761a0f2f6876bc9b687e925fc38deda9273702609310ed9c3"
+    },
+    "StreamingAssets/RoverWeb/explore/93c710c1240b3f12f22eac43.jpg": {
+      "bytes": 5471,
+      "sha256": "93c710c1240b3f12f22eac4352db9bf5db51cdc08ec033d263d925b6aad11ee3"
+    },
+    "StreamingAssets/RoverWeb/explore/93cb54bbccd63724f2cb7422.jpg": {
+      "bytes": 25750,
+      "sha256": "93cb54bbccd63724f2cb742260e5b91f1719a4339e3049409a1a8fa0ba6aa27c"
+    },
+    "StreamingAssets/RoverWeb/explore/9433a871e432a2f4969cbfbc.jpg": {
+      "bytes": 4664,
+      "sha256": "9433a871e432a2f4969cbfbc7148ddff92dae662b80bc022963e44937131e75c"
+    },
+    "StreamingAssets/RoverWeb/explore/980e10085e1303643b92139b.jpg": {
+      "bytes": 18398,
+      "sha256": "980e10085e1303643b92139bea75b5134a669c756f97c79a7bcee840aa4fbee2"
+    },
+    "StreamingAssets/RoverWeb/explore/98e3b8f0c68e921522f670ea.jpg": {
+      "bytes": 28712,
+      "sha256": "98e3b8f0c68e921522f670eacc83eae4ff3d8728a563664fa0a6ac04868c4cc6"
+    },
+    "StreamingAssets/RoverWeb/explore/9a347b438937f698f8c5723e.jpg": {
+      "bytes": 5212,
+      "sha256": "9a347b438937f698f8c5723e0d84374c7b8bdd10177684a45a0883193d7d46ef"
+    },
+    "StreamingAssets/RoverWeb/explore/9a6882e9cbf647510227cfb6.jpg": {
+      "bytes": 5566,
+      "sha256": "9a6882e9cbf647510227cfb6f117b58031cc6a117d944ae6c555942de9813fb6"
+    },
+    "StreamingAssets/RoverWeb/explore/9b96b8e08568031db904120c.jpg": {
+      "bytes": 189505,
+      "sha256": "9b96b8e08568031db904120c4f3b71f4d746e6980ce2cfeb1ba74f3fa12aa68a"
+    },
+    "StreamingAssets/RoverWeb/explore/9e446569629382473a0ccb81.jpg": {
+      "bytes": 18361,
+      "sha256": "9e446569629382473a0ccb81aeba83fefcaf2b3a1c0a4bdbfd171a4dc86085f1"
+    },
+    "StreamingAssets/RoverWeb/explore/a046ab5c52cf3c77bdeee990.jpg": {
+      "bytes": 4365,
+      "sha256": "a046ab5c52cf3c77bdeee99046586c9f6e9ee5a63cac14a29dbc0b751f1d2e93"
+    },
+    "StreamingAssets/RoverWeb/explore/a89fb6775a6dddf318e593e3.jpg": {
+      "bytes": 5799,
+      "sha256": "a89fb6775a6dddf318e593e3cf1e1fd16331af365bc30db24a42d33abc87e9cb"
+    },
+    "StreamingAssets/RoverWeb/explore/ab803cbcee90cbb671ecda13.jpg": {
+      "bytes": 4743,
+      "sha256": "ab803cbcee90cbb671ecda1317c4f768380a0e6b7971ef2e3ebdc59a006ae8f4"
+    },
+    "StreamingAssets/RoverWeb/explore/abb73a5862a53670ef7a45e2.jpg": {
+      "bytes": 40919,
+      "sha256": "abb73a5862a53670ef7a45e21ab18b8f068d9011901f497ede48f6ea35970a5f"
+    },
+    "StreamingAssets/RoverWeb/explore/ac3551e5a0e96b599b1604ca.jpg": {
+      "bytes": 50318,
+      "sha256": "ac3551e5a0e96b599b1604ca64be1d6fe64d98748ed85bec83e403d624d1708c"
+    },
+    "StreamingAssets/RoverWeb/explore/ae6f58dddcc94f5403e6d3e3.jpg": {
+      "bytes": 18221,
+      "sha256": "ae6f58dddcc94f5403e6d3e3b728469945673dc76c89059ddd5df50f55fc3526"
+    },
+    "StreamingAssets/RoverWeb/explore/b2ed67eca4b94d4a9f34c86b.jpg": {
+      "bytes": 26582,
+      "sha256": "b2ed67eca4b94d4a9f34c86bfccbab283c4af53fd0241f141f540b0ca2fa1900"
+    },
+    "StreamingAssets/RoverWeb/explore/b2f050b0da38c5a8632f1f61.jpg": {
+      "bytes": 4309,
+      "sha256": "b2f050b0da38c5a8632f1f613f1bb2527e2688adba54818077d421858d976004"
+    },
+    "StreamingAssets/RoverWeb/explore/b73dca37048d6b2522d98e70.jpg": {
+      "bytes": 4538,
+      "sha256": "b73dca37048d6b2522d98e7082aa26b68e756bd4ba41636d06dadd6501482e16"
+    },
+    "StreamingAssets/RoverWeb/explore/baa12d2daa912fc3a6da4890.jpg": {
+      "bytes": 13720,
+      "sha256": "baa12d2daa912fc3a6da4890516890fac6398cfd36fc88f5e777190e58e38ea3"
+    },
+    "StreamingAssets/RoverWeb/explore/bb743d0ca05d719af43dbe05.jpg": {
+      "bytes": 5238,
+      "sha256": "bb743d0ca05d719af43dbe05480d574f3b72453fd3984930e3797efda99be111"
+    },
+    "StreamingAssets/RoverWeb/explore/bcd7d0a7f202c673e7eb5192.jpg": {
+      "bytes": 180587,
+      "sha256": "bcd7d0a7f202c673e7eb5192278672869971d38e678350e2603842187ebfb987"
+    },
+    "StreamingAssets/RoverWeb/explore/bd7161ec5017a44ab0f89c6b.jpg": {
+      "bytes": 62010,
+      "sha256": "bd7161ec5017a44ab0f89c6ba4a5dee411d51428ae96c89292af0d077dddb87c"
+    },
+    "StreamingAssets/RoverWeb/explore/be1e0c304653002e668b755a.jpg": {
+      "bytes": 35919,
+      "sha256": "be1e0c304653002e668b755a9452b8b11f2c87cfc1e3d5922f1caa74242ed74f"
+    },
+    "StreamingAssets/RoverWeb/explore/be65bab2cf6bac6d03063088.jpg": {
+      "bytes": 12581,
+      "sha256": "be65bab2cf6bac6d0306308826c669494c8bfa4aeb7ea1c9a8d94d9d6e1abcd7"
+    },
+    "StreamingAssets/RoverWeb/explore/c147449b6aecdbb2e99cb1b5.jpg": {
+      "bytes": 139535,
+      "sha256": "c147449b6aecdbb2e99cb1b55ec826990d97194175f67395cdaa55d161d9c39a"
+    },
+    "StreamingAssets/RoverWeb/explore/c2ba650e4cbe32609ea69cfa.jpg": {
+      "bytes": 4760,
+      "sha256": "c2ba650e4cbe32609ea69cfae99035ef445f23d8310be0bd402dc0dbbe9c5101"
+    },
+    "StreamingAssets/RoverWeb/explore/c3e7bce4731214c135dd7071.jpg": {
+      "bytes": 91840,
+      "sha256": "c3e7bce4731214c135dd707111a1f3671dfb993d92a6bba27cf5352b7fa87d1f"
+    },
+    "StreamingAssets/RoverWeb/explore/c5baf2e43133c853d1fa0834.jpg": {
+      "bytes": 4807,
+      "sha256": "c5baf2e43133c853d1fa08349f3f45e062771940b7fe5278a65c70aa05230ead"
+    },
+    "StreamingAssets/RoverWeb/explore/c69df82f36914cda2d3f4ef7.jpg": {
+      "bytes": 14727,
+      "sha256": "c69df82f36914cda2d3f4ef7e07f12285cb5d1cb940032025ba8df69634dd616"
+    },
+    "StreamingAssets/RoverWeb/explore/c6eaa00e26f6a0c8ce52027a.jpg": {
+      "bytes": 183171,
+      "sha256": "c6eaa00e26f6a0c8ce52027a32c7b5489823117540fce7417aa251de4c86be2d"
+    },
+    "StreamingAssets/RoverWeb/explore/c7979f113076f467f9615154.jpg": {
+      "bytes": 4350,
+      "sha256": "c7979f113076f467f9615154cb05598fcdb217fbb669e6da33aaebf53036a172"
+    },
+    "StreamingAssets/RoverWeb/explore/c8a1e2488b81dc5f7a265744.jpg": {
+      "bytes": 25891,
+      "sha256": "c8a1e2488b81dc5f7a265744ac12376e677776e4223c6e8636b6b52cb5136a0b"
+    },
+    "StreamingAssets/RoverWeb/explore/cbf07c1fb563d9c6a03d494e.jpg": {
+      "bytes": 38600,
+      "sha256": "cbf07c1fb563d9c6a03d494e9a90e1e8528b39ea2fef30f33cd8fb0414a400fc"
+    },
+    "StreamingAssets/RoverWeb/explore/cd5c9a608556145be4cedaa5.jpg": {
+      "bytes": 15186,
+      "sha256": "cd5c9a608556145be4cedaa5f28944ce72b99d6337928e43e9f76d8a67a8d52b"
+    },
+    "StreamingAssets/RoverWeb/explore/cf548ecbf00372c0989e517f.jpg": {
+      "bytes": 356968,
+      "sha256": "cf548ecbf00372c0989e517f5b2ea09ebcc3893a1df0048246ed806ee36803f7"
+    },
+    "StreamingAssets/RoverWeb/explore/d2c41f25579816c4cd137f5a.jpg": {
+      "bytes": 42109,
+      "sha256": "d2c41f25579816c4cd137f5ac77367f18e7599b76e8e19494cd48512e091ffc4"
+    },
+    "StreamingAssets/RoverWeb/explore/d464a4e76c15537e7435b5af.jpg": {
+      "bytes": 43993,
+      "sha256": "d464a4e76c15537e7435b5afe20f0919951ec9246d0dfcd6d03198bfd02e8bdc"
+    },
+    "StreamingAssets/RoverWeb/explore/d9153efa17d64b492f6e7661.jpg": {
+      "bytes": 67340,
+      "sha256": "d9153efa17d64b492f6e7661c459f69786feec9014d36144ae8598908a7cdb3a"
+    },
+    "StreamingAssets/RoverWeb/explore/db1c5c12a5499ae50a2c25a0.jpg": {
+      "bytes": 385376,
+      "sha256": "db1c5c12a5499ae50a2c25a0f347016004d720484860e54a58f308ac89e1da34"
+    },
+    "StreamingAssets/RoverWeb/explore/db589e5a772601da733b6899.jpg": {
+      "bytes": 367382,
+      "sha256": "db589e5a772601da733b6899b7096e5c3661e42b6e9e2adc2a557ba82be4798a"
+    },
+    "StreamingAssets/RoverWeb/explore/dc1cb9672b0ca8b17c7b1a06.jpg": {
+      "bytes": 18596,
+      "sha256": "dc1cb9672b0ca8b17c7b1a0699c5dce55d81f5dcd2f582ae257b83578d59bed2"
+    },
+    "StreamingAssets/RoverWeb/explore/e049aaa73c4e4686fe125e6b.jpg": {
+      "bytes": 21060,
+      "sha256": "e049aaa73c4e4686fe125e6b37691d64e18804e9401ff4563f62faa8f54df1d5"
+    },
+    "StreamingAssets/RoverWeb/explore/e0a380811db6d0d210f559d2.jpg": {
+      "bytes": 17405,
+      "sha256": "e0a380811db6d0d210f559d29f83391971fea8042bf56aeb5f3c15d966784261"
+    },
+    "StreamingAssets/RoverWeb/explore/e0c9d328d06402a196701738.jpg": {
+      "bytes": 31117,
+      "sha256": "e0c9d328d06402a1967017385c8391a5d55a16f8dc8c419f4061416960b0aeed"
+    },
+    "StreamingAssets/RoverWeb/explore/e17c58b9e84d49020a9f21f6.jpg": {
+      "bytes": 40369,
+      "sha256": "e17c58b9e84d49020a9f21f6a77cf54a0b64eba184c5598d5af76fd412b5a020"
+    },
+    "StreamingAssets/RoverWeb/explore/e215c429be35a84ce0ace7df.jpg": {
+      "bytes": 403217,
+      "sha256": "e215c429be35a84ce0ace7dff5cab851b3b2ad0e9b30fccf3163b518dea4356a"
+    },
+    "StreamingAssets/RoverWeb/explore/e328ae7e52cf5aa632caa06d.jpg": {
+      "bytes": 238253,
+      "sha256": "e328ae7e52cf5aa632caa06de6b6720f28bcb9a6ebe448b03effff94ad968b53"
+    },
+    "StreamingAssets/RoverWeb/explore/e57c8a40f77303a15154b5b3.jpg": {
+      "bytes": 152092,
+      "sha256": "e57c8a40f77303a15154b5b3b3be895aa90aed83e85d541c0741b46e28d9fbaf"
+    },
+    "StreamingAssets/RoverWeb/explore/e6cef75a67cbf87f59b408d5.jpg": {
+      "bytes": 4782,
+      "sha256": "e6cef75a67cbf87f59b408d5d9596d8eb2d078c676d0735f05fce6c7b1ffbb9e"
+    },
+    "StreamingAssets/RoverWeb/explore/e6cf34547e5fa7ead612f924.jpg": {
+      "bytes": 369277,
+      "sha256": "e6cf34547e5fa7ead612f9245455f89d111094ef40411295a3d6d94736d0f150"
+    },
+    "StreamingAssets/RoverWeb/explore/e6d4641a785df8ca52c003cf.jpg": {
+      "bytes": 29964,
+      "sha256": "e6d4641a785df8ca52c003cfbec6c5afbe6dbbaf35452d747bd4423fd6613a99"
+    },
+    "StreamingAssets/RoverWeb/explore/ee10a6c285f85b8606e6591a.jpg": {
+      "bytes": 5083,
+      "sha256": "ee10a6c285f85b8606e6591a577d2fda4cab0581c09554502c63385a2801d8d7"
+    },
+    "StreamingAssets/RoverWeb/explore/f5c26d5bf4157a63a4839251.jpg": {
+      "bytes": 21280,
+      "sha256": "f5c26d5bf4157a63a4839251272a9863cf3f75cc69aeb5f3bb9ed9e87799d7f3"
+    },
+    "StreamingAssets/RoverWeb/explore/f9b9c9840d5705fef99cdb27.jpg": {
+      "bytes": 4984,
+      "sha256": "f9b9c9840d5705fef99cdb27eed7eb9dd86d376c3ff8ff5f4c82dd58c856bf32"
+    },
+    "StreamingAssets/RoverWeb/explore/fa215fe2594508f7b777a3f1.jpg": {
+      "bytes": 95236,
+      "sha256": "fa215fe2594508f7b777a3f1867a05b1e4ea75f36d934ed2529ae65f8f2a694a"
+    },
+    "StreamingAssets/RoverWeb/explore/fa540e10f71425e491852996.jpg": {
+      "bytes": 29504,
+      "sha256": "fa540e10f71425e49185299671fafa018299e1c46dbd2dba5dad60b3cc89a49a"
+    },
+    "StreamingAssets/RoverWeb/explore/fa9cca1e5046983b4f82c824.jpg": {
+      "bytes": 3986,
+      "sha256": "fa9cca1e5046983b4f82c824da1070f10b4b612cdbb5eef4014914c9fa9245e1"
+    },
+    "StreamingAssets/RoverWeb/explore/fed5eb3b206b778840c8d13c.jpg": {
+      "bytes": 106704,
+      "sha256": "fed5eb3b206b778840c8d13c1a259b086b3bfb83574333fb39a707c60b13257e"
+    },
+    "StreamingAssets/RoverWeb/explore/ff625e7c083bdc0a0c821bb4.jpg": {
+      "bytes": 246990,
+      "sha256": "ff625e7c083bdc0a0c821bb42ca8fad6dbe019cca1fa803553f6894ff0737a6f"
+    },
+    "StreamingAssets/RoverWeb/leo-attribution.txt": {
+      "bytes": 1560,
+      "sha256": "4eedddc8a823e31bed899f1ec0afbad2edfde1e8eeb8a2a68d2b0dee19e26e7a"
+    },
+    "StreamingAssets/RoverWeb/lunar-fetch.mjs": {
+      "bytes": 1942,
+      "sha256": "84f8296c8a3cd286147bedfb7b8bb0490d2215204bc83e06f2008a7b287a142a"
+    },
+    "StreamingAssets/RoverWeb/media/arm-rrt.mp4": {
+      "bytes": 1118535,
+      "sha256": "f9d7612f9cb194e8e5f829aa8b522dee917df1035194fde41bc806f4b8c76e80"
+    },
+    "StreamingAssets/RoverWeb/media/wheel-r01.mp4": {
+      "bytes": 3514092,
+      "sha256": "00e708465b313722427397382525acf7bf5a0196ac0d16b3f1a3f453852ef751"
+    },
+    "StreamingAssets/RoverWeb/media/wheel-r02.mp4": {
+      "bytes": 3449096,
+      "sha256": "4a67783c09d8c61756f609e1a59e5d29979467470153507c64a31c19fda9866d"
+    },
+    "StreamingAssets/RoverWeb/pyodide/contourpy-1.3.0-cp312-cp312-pyodide_2024_0_wasm32.whl": {
+      "bytes": 112207,
+      "sha256": "f6ca0437a039c40691be53ff5bd3c9774868add8d5c2d032167495c6ff1f1c4b"
+    },
+    "StreamingAssets/RoverWeb/pyodide/cycler-0.12.1-py3-none-any.whl": {
+      "bytes": 8321,
+      "sha256": "e33687b4269fe3eda13c2d38006f9a5daa602c95f5c4f8d0576aff0717d001a6"
+    },
+    "StreamingAssets/RoverWeb/pyodide/fonttools-4.51.0-py3-none-any.whl": {
+      "bytes": 1073094,
+      "sha256": "0c9a46b9246333de02d0fe02c0580840d7136744121f256a870218ed7482b607"
+    },
+    "StreamingAssets/RoverWeb/pyodide/kiwisolver-1.4.5-cp312-cp312-pyodide_2024_0_wasm32.whl": {
+      "bytes": 35233,
+      "sha256": "d7652d88b3390d9d1d0175d6c79da675b42bac2cd748cc9b5766a3235da4b762"
+    },
+    "StreamingAssets/RoverWeb/pyodide/matplotlib-3.8.4-cp312-cp312-pyodide_2024_0_wasm32.whl": {
+      "bytes": 6714844,
+      "sha256": "50d4641b32e84ecb0a2c271728d4be73b1e0a0f5f29aa7dd6ea280f888b91340"
+    },
+    "StreamingAssets/RoverWeb/pyodide/matplotlib_pyodide-0.2.3-py3-none-any.whl": {
+      "bytes": 26183,
+      "sha256": "070d6244e7ae44f8753d3a78cf5c30f93c8d781e620991af848dcfd44112839f"
+    },
+    "StreamingAssets/RoverWeb/pyodide/numpy-2.0.2-cp312-cp312-pyodide_2024_0_wasm32.whl": {
+      "bytes": 3061133,
+      "sha256": "ebb61241d962b98b21597d7ce43b67668a6d5bab3acec4fbe958657320d7cd08"
+    },
+    "StreamingAssets/RoverWeb/pyodide/packaging-24.2-py3-none-any.whl": {
+      "bytes": 71930,
+      "sha256": "fbf6a5ace596eb8e28fe0089ecfc0bca2eb3930563e9ca06acb98ea5302b99f7"
+    },
+    "StreamingAssets/RoverWeb/pyodide/pillow-10.2.0-cp312-cp312-pyodide_2024_0_wasm32.whl": {
+      "bytes": 987254,
+      "sha256": "43eab147a9355385a99eeac18fb577d4af2fe4bd0bbd23d3ba3ddb92e72c2815"
+    },
+    "StreamingAssets/RoverWeb/pyodide/pyodide-lock.json": {
+      "bytes": 112205,
+      "sha256": "9c45b916001a750f4102fc287494f3eab215909c7535c626a20db80fd6333e2c"
+    },
+    "StreamingAssets/RoverWeb/pyodide/pyodide.asm.js": {
+      "bytes": 1255688,
+      "sha256": "6b4c90de5b7172873f04f21884d0e9d2274e305fe32116558fe3e4fbe3618d51"
+    },
+    "StreamingAssets/RoverWeb/pyodide/pyodide.asm.wasm": {
+      "bytes": 10105545,
+      "sha256": "a50dd1843f805a0b7c45b61037ee0d7b26dfe85efe0e18ef95a34ad24e401f5f"
+    },
+    "StreamingAssets/RoverWeb/pyodide/pyodide.mjs": {
+      "bytes": 13931,
+      "sha256": "04c052c815abb0bf2981fa38c2dfa58e3120ee5288c956df2b2a15e301782c5f"
+    },
+    "StreamingAssets/RoverWeb/pyodide/pyparsing-3.1.2-py3-none-any.whl": {
+      "bytes": 103246,
+      "sha256": "9070866557845375d8180e9236021fdecb2b93be75a7c8de48841f1465133a60"
+    },
+    "StreamingAssets/RoverWeb/pyodide/python_dateutil-2.9.0.post0-py2.py3-none-any.whl": {
+      "bytes": 229892,
+      "sha256": "02811ea3714f6697d639c07dc5ec63f5774dc7a688e4e1cbbe9beb2f33c3e6c9"
+    },
+    "StreamingAssets/RoverWeb/pyodide/python_stdlib.zip": {
+      "bytes": 2360737,
+      "sha256": "16611534726e5d8ac2bd8f926410b2dcb8d6f49aa24913463533b457a2115c16"
+    },
+    "StreamingAssets/RoverWeb/pyodide/pytz-2024.1-py2.py3-none-any.whl": {
+      "bytes": 505474,
+      "sha256": "fcfc168155da8d19057b17bee735fef71dc3a39f1dccd83514e16ecc6abaddc4"
+    },
+    "StreamingAssets/RoverWeb/pyodide/six-1.16.0-py2.py3-none-any.whl": {
+      "bytes": 11053,
+      "sha256": "f61235bc3a15086f0369585e5071ae9ba0bd244a111d12b37f683862e6850c0a"
+    },
+    "StreamingAssets/RoverWeb/pyodide/sqlite3-1.0.0-cp312-cp312-pyodide_2024_0_wasm32.whl": {
+      "bytes": 563076,
+      "sha256": "43061928762b03482676a1e11dcef99a003148e59fe914b6a3e41180c382cfc3"
+    },
+    "StreamingAssets/RoverWeb/python/mapa_archivo.py": {
+      "bytes": 18973,
+      "sha256": "4c1e7d9a7ef9129523128eb124eb25211b1e5d5afa2929333f0e1b24fc5b33a9"
+    },
+    "StreamingAssets/RoverWeb/python/rover_web_viewer.py": {
+      "bytes": 2693,
+      "sha256": "92cce08ce455026e2ef8da8607189d28df23a522d0619a7a92f25ad5f3af0042"
+    },
+    "StreamingAssets/RoverWeb/python/sector_projection.py": {
+      "bytes": 5053,
+      "sha256": "a668e9e11c4710d4cc19fd66f7377bf450585a15ec5f6d90b6605cff7a4c78cc"
+    },
+    "StreamingAssets/RoverWeb/python/ver_algoritmos_rover.py": {
+      "bytes": 18990,
+      "sha256": "38c772086e66f070694f878ccdd7234fcfaa064c04f6849347a71a98e3a2daf7"
+    },
+    "StreamingAssets/RoverWeb/python/ver_mision_rover.py": {
+      "bytes": 37159,
+      "sha256": "933ae5f0beccfd00f24481eaf4ceb22263e1761fdffc7bc7a877b176ad621ec9"
+    },
+    "StreamingAssets/RoverWeb/python/visor_unity.py": {
+      "bytes": 8627,
+      "sha256": "ae251ec9235fc35b0d61bd4c0a2d6ec9eeb65962288a8a778e0e6208e40d2eeb"
+    },
+    "StreamingAssets/RoverWeb/room-client.mjs": {
+      "bytes": 3228,
+      "sha256": "c2401f62ba4088ad9db110feaa3fead6323abf51d2ef421931e3c28a5c9c7003"
+    },
+    "StreamingAssets/RoverWeb/solar/Base_Datos_CRATER_2026.json": {
+      "bytes": 1216502,
+      "sha256": "52c23771c30226e9c2c8e71a27fc667d2a11b523897a25cb5adb4f14bfd4eeb5"
+    },
+    "StreamingAssets/RoverWeb/solar/Base_Datos_SEP_2026.json": {
+      "bytes": 24870,
+      "sha256": "ed8c5629379cde4749ea8fa60ddf3794bb1f25610ccc5f5f41d377a6092f0370"
+    },
+    "StreamingAssets/RoverWeb/solar/Informe_SEP_2026.json": {
+      "bytes": 5130,
+      "sha256": "2675f341499a212bb9c421181277b0789fe1318e9a729857d36126489dde360b"
+    },
+    "StreamingAssets/RoverWeb/solar/parametros_radiacion.json": {
+      "bytes": 713,
+      "sha256": "8b3f593895bd844af996e3365a033119fec838c591a57ae0467e8715b7116041"
+    },
+    "StreamingAssets/RoverWeb/viewer-runtime.mjs": {
+      "bytes": 4171,
+      "sha256": "2c2baa8049c3addf1648daff9619b52d94ac8a756fbd0be8015e3a7d417bee9b"
+    },
+    "StreamingAssets/RoverWeb/viewer-worker.mjs": {
+      "bytes": 2916,
+      "sha256": "bea4d58a838384916e9144b9869e0b24b317229a45ee18d6681fbfcc5c37a851"
+    },
+    "index.html": {
+      "bytes": 3084,
+      "sha256": "3ad62f9ad9e934c88e6ee082378f3e604daf05dabe9b5f0af2d5aa39cedc7552"
+    },
+    "rover-config.js": {
+      "bytes": 276,
+      "sha256": "77928b63a76e8212b1f3c1eead448d9f4805144261a6ee9b8cf9d9591f8c53b2"
+    },
+    "rover-time-loading.gif": {
+      "bytes": 2838382,
+      "sha256": "6b87b75189e6fde2eebba31b922457de335a3ac50bd2bf1fb04a7d4c8ad4e3e7"
+    }
+  },
+  "largeFiles": {}
+}

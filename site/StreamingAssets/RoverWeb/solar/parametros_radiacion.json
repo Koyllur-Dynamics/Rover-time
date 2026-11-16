@@ -1,0 +1,31 @@
+{
+  "nota": "NASA LRO/CRaTER: conteos orbitales D2 de 2026. Indice de juego normalizado, no dosis. Proteccion y tormenta son reglas educativas.",
+  "tormenta_inicio_h": 10,
+  "tormenta_duracion_h": 4,
+  "salida_h": 8,
+  "perfiles": {
+    "Rigida": {
+      "fondo": 0.9,
+      "solar": 0.3
+    },
+    "Inflable": {
+      "fondo": 0.95,
+      "solar": 0.5
+    },
+    "Regolito / ISRU": {
+      "fondo": 0.8,
+      "solar": 0.1
+    },
+    "Rover": {
+      "fondo": 0.95,
+      "solar": 0.6
+    },
+    "Exterior": {
+      "fondo": 1.0,
+      "solar": 1.0
+    }
+  },
+  "archivo_fondo": "Base_Datos_CRATER_2026.json",
+  "tormenta_extra_veces_fondo": 10,
+  "puntos_por_hora_referencia": 1
+}

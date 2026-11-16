@@ -1,0 +1,8 @@
+Leo Rover — attribution and adaptation
+Mechanical design: Fictionlab. CAD/mechanics license: Creative Commons BY-NC-SA, as stated at https://docs.fictionlab.pl/leo-rover/documentation/downloads . The original license conditions remain applicable to these derived mechanical meshes.
+Input supplied by project owner: Leo_Rover_preparacion_10_grupos_ESCALA_4X.step. The input is already 4x. Runtime geometry applies another uniform 2.5x (total 10x) and converts CAD axes/metres to Unity. Meshes retain the ten mechanical assemblies. Wheels are recentered for animation.
+Custom simulator additions: six-axis double-plate arm, rear sample hopper, stereo camera mast, lights and simulated LiDAR. These are not manufacturer specifications or flight-qualified equipment. Chassis mass 448 kg is a simulation setting, not a measured or similarity-scaled mass at 10x.
+Manufacturer reference: https://docs.fictionlab.pl/leo-rover/documentation/specification (hardware revisions vary).
+Research reference: León Ramos et al., Experimental Validation of Translational Single LiDAR 2D Mechanism Into Autonomous Navigation and 3D SLAM of Mobile Robots, IEEE Access 13 (2025), 153386–153397. https://doi.org/10.1109/ACCESS.2025.3602283 . The simulator does not reproduce or certify the paper's results.
+Offline STEP conversion uses occt-import-js (LGPL-2.1); https://github.com/kovacsv/occt-import-js . Importer is a development tool and is not bundled in the browser application. Its license is retained in Tools/LeoImport/node_modules/occt-import-js/LICENSE.md.
+

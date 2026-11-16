@@ -1,0 +1,21 @@
+{
+  "pyodide": "0.27.7",
+  "packages": [
+    "contourpy",
+    "cycler",
+    "fonttools",
+    "kiwisolver",
+    "matplotlib",
+    "matplotlib-pyodide",
+    "numpy",
+    "packaging",
+    "pillow",
+    "pyparsing",
+    "python-dateutil",
+    "pytz",
+    "six",
+    "sqlite3"
+  ],
+  "sqlite": "3.54.1",
+  "sqlite_archive_sha3_256": "92281c86e2957f9b9305890f9ac04204caa7b677cc868dc326d942689df28e30"
+}
